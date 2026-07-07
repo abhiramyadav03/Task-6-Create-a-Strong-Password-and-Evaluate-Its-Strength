@@ -128,6 +128,17 @@ The strength of each password was compared to understand how complexity improves
 | M@ngo#Tiger$91&Sky | 🟢 Very Strong | Excellent length and randomness |
 
 ---
+# 📈 Results
+
+The password evaluation demonstrated a clear relationship between password complexity and security. Simple passwords containing common words and predictable patterns were rated **Very Weak** or **Weak**, while long, random passwords using uppercase letters, lowercase letters, numbers, and special characters achieved a **Very Strong** rating.
+
+The strongest password tested (`M@ngo#Tiger$91&Sky`) showed:
+
+- ✅ Very Strong rating
+- ✅ Excellent length
+- ✅ All four character types
+- ✅ No common patterns detected
+- ✅ Estimated crack time greater than one trillion years
 
 # 🔍 Password Attacks
 
@@ -199,14 +210,25 @@ football
 
 | Screenshot | Description |
 |------------|-------------|
-| password1.png | Very Weak Password |
-| password2.png | Weak Password |
-| password3.png | Fair Password |
-| password4.png | Fair Password |
-| password5.png | Very Strong Password |
+| 01-password.png | Very Weak Password |
+| 02-password
+.png | Weak Password |
+| 03-password.png | Fair Password |
+| 04-password.png | Fair Password |
+| 05-password.png | Very Strong Password |
 
 ---
+# 📚 Key Concepts
 
+- Password Strength
+- Authentication
+- Brute Force Attack
+- Dictionary Attack
+- Password Entropy
+- Password Complexity
+- Multi-Factor Authentication (MFA)
+- Password Manager
+- Cybersecurity Best Practices
 # 🎓 Learning Outcomes
 
 Through this project, I learned:
@@ -221,6 +243,17 @@ Through this project, I learned:
 - Importance of password randomness
 
 ---
+# 💼 Skills Demonstrated
+
+- Password Security
+- Cybersecurity Fundamentals
+- Security Awareness
+- Authentication Concepts
+- Risk Assessment
+- Security Best Practices
+- Technical Documentation
+- Git & GitHub
+
 
 # 🚀 Future Improvements
 
